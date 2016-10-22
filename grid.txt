@@ -1,0 +1,5 @@
+start	0.
+end	15.
+N	200
+angle_from_vertical	90.
+A(x)	6.283185307*x

@@ -1,0 +1,5 @@
+permeability	1.00E-14
+klinkenberg_factor	0
+formation_thickness	1
+porosity	0.15
+ambient_gas_pressure	1.013E+05
