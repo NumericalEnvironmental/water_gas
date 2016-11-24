@@ -1,5 +1,5 @@
 # water_gas
-This python script uses the numerical method-of-lines to model gas injection into a one-dimensional system of variable geometry with a mobile, albeit unsaturated, water phase.
+This Python 2.7 script uses the numerical method-of-lines to model gas injection into a one-dimensional system of variable geometry with a mobile, albeit unsaturated, water phase.
 
 The following tab-delimited input files are required:
 
